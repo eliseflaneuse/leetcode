@@ -29,4 +29,12 @@ Horizontal rule:
 
 ---
 
-For _more_: [https://commonmark.org/help/] and [https://github.github.com/gfm/]
+For _more_: [https://commonmark.org/help/] and [https://github.github.com/gfm/] and [https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax]
+
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
